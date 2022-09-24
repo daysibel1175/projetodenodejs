@@ -1,0 +1,9 @@
+body{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(231, 172, 197);
+    margin-left: 20px;
+}
+h1{
+    color: indigo;
+}
